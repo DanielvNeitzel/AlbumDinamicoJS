@@ -1,0 +1,52 @@
+body {
+  background: url('bg_metal.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background: rgb(233, 82, 1);
+  background: linear-gradient(90deg, rgba(233, 82, 1, 1) 0%, rgba(153, 53, 0, 1) 50%, rgba(233, 82, 1, 1) 100%); */
+}
+
+.card-title {
+  font-size: 1.5em;
+  font-weight: 600;
+}
+
+.cur-p {
+  cursor: pointer;
+}
+
+.card-anim {
+  animation: pulse 2s ease-in-out infinite;
+}
+
+/* ----------------------------- */
+/* Custom Animation Pulse */
+/* ----------------------------- */
+
+@-webkit-keyframes pulse {
+  0% {
+    box-shadow: 0 0 15px 0 #842c00;
+  }
+
+  50% {
+    box-shadow: 0 0 25px 5px #842c00;
+  }
+
+  100% {
+    box-shadow: 0 0 15px 0 #842c00;
+  }
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 15px 0 #842c00;
+  }
+
+  50% {
+    box-shadow: 0 0 25px 5px #842c00;
+  }
+
+  100% {
+    box-shadow: 0 0 15px 0 #842c00;
+  }
+}

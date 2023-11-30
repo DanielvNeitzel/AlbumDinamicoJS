@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Half-Life Wallpaper 1",
+    "desc": "Descrição da Foto 1",
+    "path": "album/01.jpg"
+  },
+  {
+    "title": "Half-Life Wallpaper 2",
+    "desc": "Descrição da Foto 1",
+    "path": "album/02.jpg"
+  },
+  {
+    "title": "Half-Life Wallpaper 3",
+    "desc": "Descrição da Foto 1",
+    "path": "album/03.jpg"
+  },
+  {
+    "title": "Half-Life Wallpaper 4",
+    "desc": "Descrição da Foto 1",
+    "path": "album/04.jpg"
+  },
+  {
+    "title": "Half-Life Wallpaper 5",
+    "desc": "Descrição da Foto 1",
+    "path": "album/05.jpg"
+  }
+]
